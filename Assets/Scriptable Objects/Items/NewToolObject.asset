@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 172830b2d81e5eb419976f0a3f84a26b, type: 3}
+  m_Name: NewToolObject
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 24642988546252843, guid: 7cf3ef16a9b0340419047945635124bf, type: 3}
+  itemType: 1
+  description: 
+  durability: 0
+  toolType: 0
+  toolMaterial: 0
